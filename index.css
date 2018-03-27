@@ -1,3 +1,6 @@
+.title {
+	font-weight: 500;
+}
 .diff-file .diff-content table .line_holder td {
      line-height: 20px;
 }
