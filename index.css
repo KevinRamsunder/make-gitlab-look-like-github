@@ -1,5 +1,13 @@
+span.o {
+     color: #d73a49;
+}
+
+span.kc {
+     color: #005cc5;
+}
+
 .title {
-	font-weight: 500;
+     font-weight: 500;
 }
 .diff-file .diff-content table .line_holder td {
      line-height: 20px;
